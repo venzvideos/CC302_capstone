@@ -1,0 +1,6 @@
+MedReminder Flutter Mini-Capstone
+Core source: lib/main.dart
+Dependencies: Flutter SDK, shared_preferences
+No image assets required.
+Native Android/Windows runners can be generated with: flutter create --platforms=android,windows .
+Then run: flutter pub get
